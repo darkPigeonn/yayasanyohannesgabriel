@@ -1,0 +1,39 @@
+{
+    "footerAboutWidget": {
+       
+        "telephone": "(031) 99535811 | 0822 2822 9010",
+        "email": "yoh_gab@yahoo.co.id",
+        
+        "ytUrl": "https://www.youtube.com/@yayasanyohannesgabriel",
+        "instagramUrl": "https://www.instagram.com/yayasanyohannesgabriel/"
+    },
+    "footerLinkTitleOne": "Informasi Kontak",
+    "navListOne": [
+        {
+            "navTitle": "Jl. M H. Thamrin No.29-31, DR. Soetomo, Kec. Tegalsari",
+            "navUrl": "" 
+        }
+        
+    ],
+    "footerLinkTitleTwo": "Jam Operasional",
+    "navListTwo": [
+        {
+            "navTitle": "Senin - Jumat: 07.00 - 15.00",
+            "navUrl": "/" 
+        }
+        
+    ],
+
+    "footerLinkTitleThree": "Tentang Kami",
+    "navListThree": [
+        {
+            "navTitle" : "Agenda",
+            "navUrl": "/"
+        },
+        {
+            "navTitle": "Galeri",
+            "navUrl": "/"
+        }
+    ]
+    
+}
